@@ -1,0 +1,21 @@
+# Ignore Play! working directory #
+bin/
+db
+.eclipse
+lib/
+logs/
+modules
+project/target
+project/project
+target
+tmp/
+test-result
+server.pid
+*.eml
+dist/
+.cache
+.ensime_cache
+.ensime
+.DS_Store
+.history
+.idea

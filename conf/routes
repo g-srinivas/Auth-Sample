@@ -1,0 +1,3 @@
+GET		/		        controllers.Application.index
+POST  /signup     controllers.Application.signUp
+POST  /signin     controllers.Application.authenticate
